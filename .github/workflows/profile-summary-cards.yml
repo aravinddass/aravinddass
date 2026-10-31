@@ -26,6 +26,6 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: master
-          THEME: radical
+          THEME: github_dark
           UTC_OFFSET: 5.5
           AUTO_PUSH: true
